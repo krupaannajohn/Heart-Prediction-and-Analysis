@@ -1,5 +1,5 @@
 # Heart-Prediction-and-Analysis-App
-This project is a web-based application that predicts the risk of heart attack based on user input and relevant health metrics. It leverages machine learning algorithms to provide users with personalized risk assessments and recommendations for maintaining heart health.
+This project is a web-based application that predicts the risk of heart attack based on user input and relevant health metrics. It leverages machine learning algorithms to provide users with personalized risk assessments that create awareness to maintaining heart health.
 
 ## Installation Instructions
 
