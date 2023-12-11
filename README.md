@@ -11,10 +11,12 @@ Follow these steps to set up and run the Heart Attack Prediction and Analysis Ap
 
 3. Navigate to the project directory
 
-4. Install dependencies:
+4. Make the necessary migrations
+
+5. Install dependencies:
 pip install -r requirements.txt
 
-5. Run the .py file: 
+6. Run the .py file: 
 A pickle file will be procured.
 Load the pickle file into the project directory.
 Make alterations to the front end as desired.
