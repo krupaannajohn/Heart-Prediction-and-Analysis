@@ -30,9 +30,10 @@ To use the Heart Attack Prediction and analysis App:
 1. Open your web browser and navigate to the URL that typically appears as http://localhost:5000.
 
 2. This navigates to the data tab which gives essential information of the dataset such as the first and last few rows
-The Descriptive statistics gives the descriptive statistical summary of the dataset
-The Exploratory Data Analysis tab displays the dynamic visualisation of the dataset and its variables
-The Profile report tab gives the data profile report of the dataset
+
+The Descriptive statistics gives the descriptive statistical summary of the dataset.
+The Exploratory Data Analysis tab displays the dynamic visualisation of the dataset and its variables.
+The Profile report tab gives the data profile report of the dataset.
 The Predict tab allows to predict the heart attack risk with the user inputted variables.
 
 3. Fill out the input form with relevant health metrics, including age, gender, height, weight, sleep hours etc.
