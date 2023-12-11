@@ -7,7 +7,7 @@ Follow these steps to set up and run the Heart Attack Prediction and Analysis Ap
 
 1. Clone the repository
 
-2. Download CSV file and the project file
+2. Download CSV file from the ZIP folder and the project file
 
 3. Navigate to the project directory
 
